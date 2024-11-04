@@ -1,2 +1,2 @@
 <b> Projeto Final MC322 - Programação Oritentada a Objetos <b><br>
-<i>Universidade Estadual de Campinas</i> <br>
+<i>Instituto de Computação da Universidade Estadual de Campinas - IC UNICAMP</i> <br>
